@@ -2,9 +2,6 @@
   background-image: url("img/banner.jpg");
 }
 
-.circlejo {
-    background-color: blue;
-    height: 250px;
-    width: 250px;
-    border border-radius: 100rem;
+.indojo {
+  background-image: url("img/Background/id.svg");
 }
